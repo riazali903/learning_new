@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+.idea/
 
 # C extensions
 *.so
@@ -43,6 +45,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+*.xml
 *.cover
 .hypothesis/
 .pytest_cache/
